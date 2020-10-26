@@ -29,5 +29,5 @@
     "identify_section_options": [
         ["match_header", "Contact: /<sip:{{ username }}@.*>/"],
         ["match", "{{ server }}"]
-    ]
+    ],,,,,
 }
